@@ -1,5 +1,5 @@
 # game-hub
-A game gallery developed based on rawg.io
+A game gallery developed with data from rawg.io
 
 https://game-hub1.netlify.app/
 
