@@ -10,3 +10,10 @@ React.js + TypeScript
 Chakra-UI for building the interface
 
 React Query for state management
+
+Features including and are not limited to:
+1. Color mode switch
+2. Responsive layout
+3. Optimised image
+4. Infinite scroll
+5. Single responsibility and component reusability
