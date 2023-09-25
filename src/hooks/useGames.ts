@@ -4,6 +4,7 @@ import { GameQuery } from "./../App";
 import { Platform } from "./usePlatforms";
 
 const apiClient = new APIClient<Game>("/games");
+
 export interface Game {
     id: number;
     name: string;
